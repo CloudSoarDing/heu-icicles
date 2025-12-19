@@ -6,22 +6,43 @@
 [![](https://img.shields.io/github/issues-pr-closed-raw/HEUOpenResource/heu-icicles.svg?style=flat)](https://github.com/HEUOpenResource/heu-icicles/issues)
 ![](https://img.shields.io/github/repo-size/HEUOpenResource/heu-icicles.svg?style=flat)
 
+[![部署站点](https://github.com/HEUOpenResource/HEUOpenResource.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/HEUOpenResource/HEUOpenResource.github.io/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/HEUOpenResource/HEUOpenResource.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HEUOpenResource/HEUOpenResource.github.io/actions/workflows/pages/pages-build-deployment)
+
 [![Build MKDocs](https://github.com/HEUOpenResource/mkdocs-build/actions/workflows/mkdocs_builder.yaml/badge.svg)](https://github.com/HEUOpenResource/mkdocs-build/actions/workflows/mkdocs_builder.yaml)
 [![pages-build-deployment](https://github.com/HEUOpenResource/heu-icicles/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HEUOpenResource/heu-icicles/actions/workflows/pages/pages-build-deployment)
 
 ## 先看这里👋
 
-手机端用户请点击左上角三条横线，查看课程列表，或使用右上角搜索功能搜索。
+手机端用户请点击**左上角三条横线**，查看课程列表，或使用右上角搜索功能搜索。
 
-Web page: [https://heuopenresource.github.io/heu-icicles/](https://heuopenresource.github.io/heu-icicles/)
+Web page: 
+
+- [https://heu.us.kg/](https://heu.us.kg/) (新版站点：方便记忆)
+  
+- [https://HEUOpenResource.github.io](https://heuopenresource.github.io/) （新版站点：永久有效）
+
+- [https://old.heu.us.kg/](https://old.heu.us.kg/)  （旧版站点(~~暂时停更~~)：方便记忆）
+
+- [https://heuopenresource.github.io/heu-icicles/](https://heuopenresource.github.io/heu-icicles/) （旧版站点(~~暂时停更~~)：永久有效）
+
+- [https://analytics.heu.us.kg/](https://analytics.heu.us.kg/) （网站访问情况统计分析面板）
+
+- [https://ghproxy.heu.us.kg/](https://ghproxy.heu.us.kg/) （Github文件下载加速）
+
+- [https://mail.heu.us.kg/](https://mail.heu.us.kg/)   (临时邮箱服务)
+
 
 由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 commit 无效。
 
-如果您下载Github仓库中的文件很慢，或者流量不足，可以临时使用我们的[Down Git](https://ghproxy.kokomi0728.eu.org/)服务，国内可以直连。站点每日只有10万请求次数，如果您希望自行搭建流量转发服务，请参考[链接](https://blog.godgy.xyz/dmroom/otherv/260/)。
+如果您下载Github仓库中的文件很慢，或者流量不足，可以临时使用我们的[Github文件下载加速](https://ghproxy.heu.us.kg/)服务，国内可以直连。站点每日只有10万请求次数，如果您希望自行搭建流量转发服务，请参考[链接](https://blog.godgy.xyz/dmroom/otherv/260/)。
 
-感谢对本项目贡献的同学（排名不分先后）：[xhd0728](https://github.com/xhd0728)、[only9464](https://github.com/only9464)、[RigelNana](https://github.com/RigelNana)、[konancol](https://github.com/konancol)、[Holit](https://github.com/Holit)、[yisuanwang](https://github.com/yisuanwang)、[xhyu61](https://github.com/xhyu61)、[penguinway](https://github.com/penguinway)、[jht3QAQ](https://github.com/jht3QAQ)、[yao9e](https://github.com/yao9e)、[zhangxianyv](https://github.com/zhangxianyv)、[FuxuanNet
-](https://github.com/FuxuanNet
-)、[lvdongyi](https://github.com/lvdongyi) 、[kur114](https://github.com/kur114)……以及电脑前的您！
+感谢对本项目贡献的同学（排名不分先后）：[xhd0728](https://github.com/xhd0728)、[only9464](https://github.com/only9464)、[RigelNana](https://github.com/RigelNana)、[konancol](https://github.com/konancol)、[Holit](https://github.com/Holit)、[yisuanwang](https://github.com/yisuanwang)、[xhyu61](https://github.com/xhyu61)、[penguinway](https://github.com/penguinway)、[jht3QAQ](https://github.com/jht3QAQ)、[yao9e](https://github.com/yao9e)、[zhangxianyv](https://github.com/zhangxianyv)、[FuxuanNet](https://github.com/FuxuanNet)、[lvdongyi](https://github.com/lvdongyi) 、[kur114](https://github.com/kur114)、[Jackyao03](https://github.com/Jackyao03)、[乄Eli~那尔](https://www.douyin.com/user/MS4wLjABAAAAXWFCuwRir7K5VAZUNMM4iiSt15P5JE8Yu_lKxlokD6s)、[Parsifa1](https://github.com/Parsifa1)、[zgr-zgr](https://github.com/zgr-zgr)、[phhandong](https://github.com/phhandong)、[AstrophelXD](https://github.com/AstrophelXD)、[gfzgfzgfz](https://github.com/gfzgfzgfz)、[WaterWhisperer](https://github.com/WaterWhisperer)、[Morieity](https://github.com/Morieity)、[0Antique](https://github.com/0Antique)、[yuekechen](https://github.com/yuekechen)、[dimligent](https://github.com/dimligent)……以及屏幕前的你！
+
+<a href="https://github.com/HEUOpenResource/heu-icicles/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HEUOpenResource/heu-icicles" />
+</a>
+
 
 ## 前言
 
@@ -52,7 +73,7 @@ Web page: [https://heuopenresource.github.io/heu-icicles/](https://heuopenresour
 
 或者也可以直接附加在 **Issue** 中，由维护者进行添加。
 
-由于本项目体积很大，故可以采用在 **Github Web** 端直接上传的方式，具体操作如下：
+由于本项目体积很大，故可以采用在 **Github Web** 端直接上传的方式，具体操作如下（**切勿上命名中带有空格的文件、文件夹**）：
 
 首先 **Fork** 本项目
 
@@ -75,7 +96,7 @@ Web page: [https://heuopenresource.github.io/heu-icicles/](https://heuopenresour
 - 盗版/破解版/绿色版付费软件及其安装包
 - 课程/教师主页上列出的内容（请在获得教师许可后上传）
 
-如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto://hdxin2002@gmail.com) 。我们将会从仓库中彻底清除这些文件。
+如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto://heu-icicles@xinhaidong.top) 。我们将会从仓库中彻底清除这些文件。
 
 ## 许可
 
